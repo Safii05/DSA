@@ -84,4 +84,95 @@ Small
 <img width="1920" height="1200" alt="Screenshot 2026-01-09 204706" src="https://github.com/user-attachments/assets/46ee63c1-8fc1-472f-8331-aa81f044dfe1" />
 
 
+set-2
+Solve the below problems and upload the code to your github repo as mentioned in Github repo creation for problems chapter.
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Prob 1:
+
+Write a program which takes two values x and y. Prints x for y number of times.
+
+Input:
+
+2 
+
+3
+
+Expected Output
+
+2
+
+2
+
+2
+
+Explanation - 2 is x and 3 is y in the input. So 2 is printed 3 times on the output.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="1920" height="1200" alt="Screenshot 2026-01-09 232857" src="https://github.com/user-attachments/assets/47db1b15-3ba4-4b3c-8820-2c9c9376f6f7" />
+
+Prob 2:
+
+Write a program to take x and print multiples of x till 1000.
+
+Input:
+
+100
+
+Expected Output:
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900
+
+1000
+
+Explanation - Input is 100, multiples of 100 is 100*1, 100*2, 100*3 and so on till 1000.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="1920" height="1200" alt="Screenshot 2026-01-09 232614" src="https://github.com/user-attachments/assets/9f29030b-6f44-4e1e-8246-b6629f66ef15" />
+
+Prob 3:
+
+Write a program to get firstName and lastName and n as input and print fullName that is firstName+lastName for n times.
+
+Input
+
+Nandy
+
+Raja
+
+5
+
+Expected output:
+
+NandyRaja
+
+NandyRaja
+
+NandyRaja
+
+NandyRaja
+
+NandyRaja
+
+Explanation - Nandy is the firstName, Raja is the lastName and n is 5, so the expected output has NandyRaja printed 5 times.
+<img width="1920" height="1200" alt="Screenshot 2026-01-09 233412" src="https://github.com/user-attachments/assets/0a8d25bc-e80a-489e-b72c-af767ced8f6b" />
 
