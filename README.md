@@ -221,3 +221,47 @@ n= 6
 *
 ```
 <img width="1920" height="1200" alt="Screenshot 2026-01-11 142139" src="https://github.com/user-attachments/assets/b7046d6c-ab32-4ecd-8975-fd961988fc36" />
+
+PATTERN-7
+Write a Program which takes input n and prints the below pattern and upload the code to your github repo.
+
+
+
+Sample 1:
+
+Input:
+
+n = 4
+
+Expected output:
+```
+4321
+
+321
+
+21
+
+1
+```
+<img width="1920" height="1200" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/ec76a2cc-676e-4f11-9614-825d2f96edbf" />
+
+
+Sample 2
+
+Input:
+
+n= 6
+```
+654321
+
+54321
+
+4321
+
+321
+
+21
+
+1
+```
+<img width="1920" height="1200" alt="Screenshot 2026-01-11 143400" src="https://github.com/user-attachments/assets/02744097-85c1-48c3-a095-2c3296ef51e0" />
