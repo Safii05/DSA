@@ -1,4 +1,3 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8293d426-844d-48ea-a165-bd35dfef4347" />Solve the below problems and upload the code to your github repo as mentioned in Github repo creation for problems chapter.
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
