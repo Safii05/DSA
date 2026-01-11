@@ -369,5 +369,29 @@ n= 6
 ```
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/be968da4-40ec-4151-923a-b5daebe360f3" />
 
+Write a program that gets n as input and print the number of digits in the number
+
+Testcase 1 :
+
+Input : 
+
+325345
+
+Expected output:
+
+6
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2bdf2138-63c3-4e45-94e5-594faea0e598" />
 
 
+Testcase 2 :
+
+Input : 
+
+9879
+
+Expected output:
+
+4
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/998773e6-0947-4fe4-b595-ece370315678" />
