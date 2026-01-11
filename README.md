@@ -313,6 +313,8 @@ n= 6
 PATTERN-11
 <img width="1920" height="1200" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/c59f809d-4a9b-44e5-800e-b973638a0aa9" />
 
+PATTERN-12
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/233c806c-e729-4d1c-a971-f76502549f41" />
 
 
 
