@@ -1,4 +1,4 @@
-Solve the below problems and upload the code to your github repo as mentioned in Github repo creation for problems chapter.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8293d426-844d-48ea-a165-bd35dfef4347" />Solve the below problems and upload the code to your github repo as mentioned in Github repo creation for problems chapter.
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -265,3 +265,53 @@ n= 6
 1
 ```
 <img width="1920" height="1200" alt="Screenshot 2026-01-11 143400" src="https://github.com/user-attachments/assets/02744097-85c1-48c3-a095-2c3296ef51e0" />
+
+PATTERN-8
+Write a Program that takes input n and prints the below pattern and upload the code to your github repo.
+
+
+
+Sample 1:
+
+Input:
+
+n = 4
+
+Expected output:
+```
+*
+
+**
+
+***
+
+****
+```
+<img width="1920" height="1200" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/f4aa634b-8558-4a01-9876-a4d2c65b462e" />
+
+
+
+Sample 2
+
+Input:
+
+n= 6
+```
+*
+
+**
+
+***
+
+****
+
+*****
+
+******
+```
+<img width="1920" height="1200" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/f6eaf675-2043-4ea7-8109-9f61cfeddca1" />
+
+
+
+
+
