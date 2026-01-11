@@ -316,5 +316,58 @@ PATTERN-11
 PATTERN-12
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/233c806c-e729-4d1c-a971-f76502549f41" />
 
+PATTERN-14
+Write a Program that takes input n and prints the below pattern and upload the code to your github repo.
+
+
+
+Sample 1:
+
+Input:
+
+n = 8
+
+Expected output:
+```
+1 
+
+2 2 
+
+3 3 3 
+
+4 4 4 4 
+
+5 5 5 5 5 
+
+6 6 6 6 6 6 
+
+7 7 7 7 7 7 7 
+
+8 8 8 8 8 8 8 8 
+
+```
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c9fde8e1-738b-4e4a-bd3f-855a35a6ccc0" />
+
+Sample 2
+
+Input:
+
+n= 6
+```
+1 
+
+2 2 
+
+3 3 3 
+
+4 4 4 4 
+
+5 5 5 5 5 
+
+6 6 6 6 6 6 
+
+```
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/be968da4-40ec-4151-923a-b5daebe360f3" />
+
 
 
