@@ -176,3 +176,48 @@ NandyRaja
 Explanation - Nandy is the firstName, Raja is the lastName and n is 5, so the expected output has NandyRaja printed 5 times.
 <img width="1920" height="1200" alt="Screenshot 2026-01-09 233412" src="https://github.com/user-attachments/assets/0a8d25bc-e80a-489e-b72c-af767ced8f6b" />
 
+
+ PATTERN - 6
+ Write a Program which takes input n and prints the below pattern and upload the code to your github repo.
+
+
+
+Sample 1:
+
+Input:
+
+n = 4
+
+Expected output:
+```
+****
+
+***
+
+**
+
+*
+```
+<img width="1920" height="1200" alt="Screenshot 2026-01-11 142119" src="https://github.com/user-attachments/assets/433e9995-556a-4e32-be36-1ae1a55880be" />
+
+
+
+Sample 2
+
+Input:
+
+n= 6
+```
+******
+
+*****
+
+****
+
+***
+
+**
+
+*
+```
+<img width="1920" height="1200" alt="Screenshot 2026-01-11 142139" src="https://github.com/user-attachments/assets/b7046d6c-ab32-4ecd-8975-fd961988fc36" />
