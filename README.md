@@ -310,6 +310,8 @@ n= 6
 ```
 <img width="1920" height="1200" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/f6eaf675-2043-4ea7-8109-9f61cfeddca1" />
 
+PATTERN-11
+<img width="1920" height="1200" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/c59f809d-4a9b-44e5-800e-b973638a0aa9" />
 
 
 
