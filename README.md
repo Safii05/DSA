@@ -1,4 +1,4 @@
-
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/24d74bd3-78a7-44c1-8b40-179b7608eeb3" />
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Prob 1 : Write a program that takes an integer, then a string, then a char from the user and prints them in the screen.
@@ -398,4 +398,30 @@ Expected output:
 
 OOPS BASICS
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2675755b-03b6-43ec-8279-db2952c0d75c" />
+
+Write a program that gets n as input and print the reverse of the number
+
+Testcase 1 :
+
+Input : 
+
+325345
+
+Expected output:
+
+543523
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/910d0ed9-9448-46e5-a09a-9d1c0950788a" />
+
+
+Testcase 2 :
+
+Input : 
+
+987987
+
+Expected output:
+
+789789
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/893e92cc-c221-4330-81fa-25450a3177f9" />
 
