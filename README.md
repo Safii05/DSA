@@ -395,3 +395,7 @@ Expected output:
 4
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/998773e6-0947-4fe4-b595-ece370315678" />
+
+OOPS BASICS
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2675755b-03b6-43ec-8279-db2952c0d75c" />
+
