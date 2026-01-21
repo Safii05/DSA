@@ -1,4 +1,3 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/24d74bd3-78a7-44c1-8b40-179b7608eeb3" />
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Prob 1 : Write a program that takes an integer, then a string, then a char from the user and prints them in the screen.
